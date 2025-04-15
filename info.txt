@@ -1,0 +1,4 @@
+Close_1, Close_5, Close_10: past closing prices (1/5/10 days ago).
+MA_3, MA_7: short-term moving averages (3-day and 7-day trends).
+Return_1d: daily return (percentage change from yesterday).
+Volatility_5d: recent price fluctuation (standard deviation over 5 days).
