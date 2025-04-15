@@ -1,2 +1,2 @@
 # stockpredictorgui
-Person stock prediction project
+Personal stock prediction project
